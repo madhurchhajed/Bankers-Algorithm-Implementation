@@ -31,5 +31,4 @@ Then as the process ends, new available resources will be assigned.
 - New Available Matrix = Allocation Matrix + Available Matrix 
 
 
-3. Output :
-, Safe Sequence of Process 
+3. Output : Safe Sequence of Process 
