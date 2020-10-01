@@ -1,5 +1,5 @@
 # Bankers-Algorithm-Implementation
-Banker’s Algorithm is a resource allocation and deadlock avoidance algorithm.
+Banker’s Algorithm is a resource allocation and deadlock avoidance Algorithms.
 
 The Banker algorithm, sometimes referred to as the detection algorithm, is a resource allocation and deadlock avoidance algorithm 
 developed by Edsger Dijkstra that tests for safety by simulating the allocation of predetermined maximum possible amounts of all 
